@@ -1,4 +1,4 @@
-# Data221-Assignment-3
+# DATA 221 Assignment 3
 
 ## Question 1: 
 _Computes and prints summary statistics (mean, median, standard deviation, minimum and maximum) for the column Violent Crimes Per Population from the dataset crime.csv._
