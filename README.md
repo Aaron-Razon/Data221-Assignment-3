@@ -13,4 +13,4 @@ _Loads the kidney.csv dataset, creates a feature matrix "X" (all columns besides
 _Uses training and testing data split from Question 3 to train a KNN Classifier model. Maks predictions, then calculates and displays the confusion matrix, f1 score, accuracy, precision and recall score._
 
 ## Question 5: 
-_Trains multiple KNN models using k = 1, 3, 5, 7, 9 on the same split from Question 3, prints a small table of test accuracies, and identifies the k value with the best accuracy._
+_Trains multiple KNN models using k = 1, 3, 5, 7, 9 on the same split from Question 3, prints a small table of test accuracies, and identifies the K-Value with the best accuracy._
